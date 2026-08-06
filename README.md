@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/mascote-github-poli1910.png" width="420" alt="Mascote desenvolvedor de Guilherme Poli" />
+  <img src="mascote-github-poli1910.png" width="420" alt="Mascote desenvolvedor de Guilherme Poli" />
 
   # Olá, eu sou o Guilherme Poli 👋
 
