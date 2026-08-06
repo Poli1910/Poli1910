@@ -26,10 +26,16 @@ Aqui você encontrará, aos poucos:
 - anotações de estudos;
 - experimentos com novas tecnologias.
 
+## Projetos em destaque
+
+### [App para corretor de imóveis](https://github.com/Poli1910/app-corretor-imoveis)
+
+Protótipo front-end de catálogo de imóveis de alto padrão com painel demonstrativo de gerenciamento, desenvolvido com HTML, CSS e JavaScript.
+
 ## Próximos passos
 
 - [x] Criar e personalizar meu perfil.
-- [ ] Publicar meus primeiros projetos práticos.
+- [x] Publicar meus primeiros projetos práticos.
 - [ ] Organizar meus estudos por tecnologia.
 - [ ] Adicionar estatísticas quando houver dados públicos suficientes.
 
