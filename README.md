@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="mascote-github-poli1910.png" width="420" alt="Mascote desenvolvedor de Guilherme Poli" />
+  <img src="mascote-github-poli1910-v2.png" width="420" alt="Mascote desenvolvedor de Guilherme Poli" />
 
   # Olá, eu sou o Guilherme Poli 👋
 
@@ -26,14 +26,12 @@ Aqui você encontrará, aos poucos:
 - anotações de estudos;
 - experimentos com novas tecnologias.
 
-## Estatísticas
+## Próximos passos
 
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Poli1910&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Guilherme Poli" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poli1910&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Guilherme Poli" />
-
-</div>
+- [x] Criar e personalizar meu perfil.
+- [ ] Publicar meus primeiros projetos práticos.
+- [ ] Organizar meus estudos por tecnologia.
+- [ ] Adicionar estatísticas quando houver dados públicos suficientes.
 
 ---
 
